@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "The Kai Project"
   text: "A free and open source past question website."
-  tagline: My great project tagline
+  tagline: "Answer to the Ultimate Question of Life, the Universe, and Everything"
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: QQ交流群
+    details: 925154731
+  - title: Email
+    details: 376672994@qq.com
+  - title: LICENSE
+    details: GNU Affero General Public License v3.0, 所有解答版权由本项目与作者所有, 试题版权归出题方（校方）所有。
 ---
 
