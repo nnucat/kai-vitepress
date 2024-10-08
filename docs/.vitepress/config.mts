@@ -29,16 +29,16 @@ export default defineConfig({
   },
   locales: {
     root: {
-      label: '简体中文',
-      lang: 'zh_cn'
+      label: '日本語',
+      lang: 'jp'
     },
     en: {
       label: 'English',
       lang: 'en',         
     },
-    jp: {
-      label: '日本語',
-      lang: 'jp',         
+    zh_cn: {
+      label: '简体中文',
+      lang: 'zh_cn',         
     }
   },
 })

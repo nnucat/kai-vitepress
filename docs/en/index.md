@@ -8,10 +8,10 @@ hero:
   tagline: "Answer to the Ultimate Question of Life, the Universe, and Everything"
   actions:
     - theme: brand
-      text: 過去問
+      text: Past questions
       link: /kakomon
     - theme: alt
-      text: 友情链接
+      text: Friend link
       link: /sites
 
 features:
@@ -20,6 +20,6 @@ features:
   - title: Email
     details: 376672994@qq.com
   - title: LICENSE
-    details: GNU Affero General Public License v3.0, 所有解答版权由本项目与作者所有, 试题版权归出题方（校方）所有。
+    details: GNU Affero General Public License v3.0, The copyright of all answers belongs to this project and the author, and the copyright of the test questions belongs to the question setter (school).
 ---
 
