@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: QQ group
-    details: 925154731
+    details: 925154731。
   - title: Email
     details: 376672994@qq.com
   - title: LICENSE
