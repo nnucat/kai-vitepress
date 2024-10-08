@@ -15,7 +15,7 @@ hero:
       link: /api-examples
 
 features:
-  - title: QQ交流群
+  - title: QQ group
     details: 925154731
   - title: Email
     details: 376672994@qq.com
