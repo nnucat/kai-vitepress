@@ -8,15 +8,15 @@ hero:
   tagline: "Answer to the Ultimate Question of Life, the Universe, and Everything"
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 過去問
+      link: /kakomon
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 友情链接
+      link: /sites
 
 features:
   - title: QQ group
-    details: 925154731。
+    details: 925154731
   - title: Email
     details: 376672994@qq.com
   - title: LICENSE
