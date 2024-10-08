@@ -22,6 +22,21 @@ export default defineConfig({
       }
     ],
 
+    locales: {
+      root: {
+        label: '简体中文',
+        lang: 'zh_cn'
+      },
+      en: {
+        label: 'English',
+        lang: 'en',         
+      },
+      jp: {
+        label: '日本語',
+        lang: 'jp',         
+      }
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
