@@ -1,7 +1,6 @@
 import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
-
 export default defineConfig({
   base:"/kai-vitepress/",
   title: "The Kai Project",
@@ -361,7 +360,4 @@ export default defineConfig({
       lang: 'zh_cn',         
     }
   },
-  markdown: {
-    math: true
-  }
 })
