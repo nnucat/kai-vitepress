@@ -1,0 +1,210 @@
+---
+comments: false
+title: 東京大学 索引
+tags:
+  - Tokyo-University
+---
+
+# 東京大学 索引
+
+- 理学系研究科:
+    - 物理学専攻:
+        - 2022年度:
+            - [専門科目 第1問](science/phys_2022_sennmon_1.md)
+        - 2020年度:
+            - [物理学 第1問](science/phys_2020_phys_1.md)
+            - [物理学 第2問](science/phys_2020_phys_2.md)
+    - 天文学専攻:
+        - 2023年度:
+            - [天文学](science/astron_2023_astron.md)
+    - 化学専攻:
+        - 2020年度:
+            - [数理科学](science/chem_2020_math_1.md)
+- 工学系研究科:
+    - 共通:
+        - 2023年度:
+            - [数学 第1問](engineering/kyotsu_2023_math_1.md)
+            - [数学 第2問](engineering/kyotsu_2023_math_2.md)
+        - 2022年度:
+            - [数学1](engineering/kyotsu_2022_math_1.md)
+            - [数学2](engineering/kyotsu_2022_math_2.md)
+            - [数学3](engineering/kyotsu_2022_math_3.md)
+            - [物理学1](engineering/kyotsu_2022_phys_1.md)
+        - 2021年度:
+            - [数学1](engineering/kyotsu_2021_math_1.md)
+            - [数学2](engineering/kyotsu_2021_math_2.md)
+            - [数学3](engineering/kyotsu_2021_math_3.md)
+            - [物理学1](engineering/kyotsu_2021_phys_1.md)
+        - 2020年度:
+            - [数学 第1問](engineering/kyotsu_2020_math_1.md)
+            - [数学 第2問](engineering/kyotsu_2020_math_2.md)
+        - 2017年度:
+            - [数学 第1問](engineering/kyotsu_2017_math_1.md)
+            - [数学 第2問](engineering/kyotsu_2017_math_2.md)
+            - [数学 第3問](engineering/kyotsu_2017_math_3.md)
+            - [数学 第4問](engineering/kyotsu_2017_math_4.md)
+            - [数学 第5問](engineering/kyotsu_2017_math_5.md)
+    - 物理工学専攻:
+        - 2020年度:
+            - [物理学 第3問](engineering/ap_2020_phys_3.md)
+    - 電気系工学専攻:
+        - 2022年度:
+            - [問題3 情報工学I](engineering/eeis_2022_3.md)
+            - [問題4 情報工学II](engineering/eeis_2022_4.md)
+        - 2021年度:
+            - [問題4 情報工学II](engineering/eeis_2021_4.md)
+        - 2020年度:
+            - [問題3 情報工学I](engineering/eeis_2020_3.md)
+            - [問題4 情報工学II](engineering/eeis_2020_4.md)
+    - 技術経営戦略学専攻:
+        - 2022年度:
+            - [セッション 1](engineering/tmi_2022_session_1.md)
+- 情報理工学研究科:
+    - 共通:
+        - 2023年度:
+            - [数学 第1問](IST/kyotsu_2023_math_1.md)
+            - [数学 第2問](IST/kyotsu_2023_math_2.md)
+            - [数学 第3問](IST/kyotsu_2023_math_3.md)
+        - 2022年度:
+            - [数学 第1問](IST/kyotsu_2022_math_1.md)
+            - [数学 第2問](IST/kyotsu_2022_math_2.md)
+            - [数学 第3問](IST/kyotsu_2022_math_3.md)
+        - 2020年度:
+            - [数学 第1問](IST/kyotsu_2020_math_1.md)
+            - [数学 第2問](IST/kyotsu_2020_math_2.md)
+            - [数学 第3問](IST/kyotsu_2020_math_3.md)
+        - 2019年度:
+            - [数学 第1問](IST/kyotsu_2019_math_1.md)
+            - [数学 第2問](IST/kyotsu_2019_math_2.md)
+            - [数学 第3問](IST/kyotsu_2019_math_3.md)
+        - 2018年度:
+            - [数学 第1問](IST/kyotsu_2018_math_1.md)
+            - [数学 第2問](IST/kyotsu_2018_math_2.md)
+            - [数学 第3問](IST/kyotsu_2018_math_3.md)
+        - 2017年度:
+            - [数学 第1問](IST/kyotsu_2017_math_1.md)
+            - [数学 第2問](IST/kyotsu_2017_math_2.md)
+            - [数学 第3問](IST/kyotsu_2017_math_3.md)
+    - 数理情報学:
+        - 2023年度:
+            - [第1問](IST/suuri_2023_1.md)
+            - [第2問](IST/suuri_2023_2.md)
+            - [第3問](IST/suuri_2023_3.md)
+            - [第4問](IST/suuri_2023_4.md)
+            - [第5問](IST/suuri_2023_5.md)
+        - 2020年度:
+            - [第1問](IST/suuri_2020_1.md)
+            - [第2問](IST/suuri_2020_2.md)
+            - [第3問](IST/suuri_2020_3.md)
+            - [第4問](IST/suuri_2020_4.md)
+            - [第5問](IST/suuri_2020_5.md)
+        - 2019年度:
+            - [第1問](IST/suuri_2019_1.md)
+            - [第3問](IST/suuri_2019_3.md)
+            - [第4問](IST/suuri_2019_4.md)
+        - 2017年度:
+            - [第2問](IST/suuri_2017_2.md)
+            - [第3問](IST/suuri_2017_3.md)
+            - [第5問](IST/suuri_2017_5.md)
+    - 電子情報学:
+        - 2024年度:
+            - [専門 第2問](IST/denshi_2024_senmon_2.md)
+            - [専門 第5問](IST/denshi_2024_senmon_5.md)
+        - 2023年度:
+            - [専門 第2問](IST/denshi_2023_senmon_2.md)
+            - [専門 第5問](IST/denshi_2023_senmon_5.md)
+        - 2020年度:
+            - [専門 第1問](IST/denshi_2020_senmon_1.md)
+            - [専門 第2問](IST/denshi_2020_senmon_2.md)
+            - [専門 第5問](IST/denshi_2020_senmon_5.md)
+        - 2019年度:
+            - [専門 第5問](IST/denshi_2019_senmon_5.md)
+        - 2018年度:
+            - [専門 第2問](IST/denshi_2018_senmon_2.md)
+            - [専門 第5問](IST/denshi_2018_senmon_5.md)
+        - 2017年度:
+            - [専門 第2問](IST/denshi_2017_senmon_2.md)
+        - 2016年度:
+            - [専門 第4問](IST/denshi_2016_senmon_4.md)
+            - [専門 第5問](IST/denshi_2016_senmon_5.md)
+        - 2015年度:
+            - [専門 第2問](IST/denshi_2015_senmon_2.md)
+            - [専門 第5問](IST/denshi_2015_senmon_5.md)
+        - 2014年度:
+            - [専門 第3問](IST/denshi_2014_senmon_3.md)
+        - 2013年度:
+            - [専門 第2問](IST/denshi_2013_senmon_2.md)
+        - 2011年度:
+            - [専門 第5問](IST/denshi_2011_senmon_5.md)
+- 新領域創成科学研究科:
+    - 物質系専攻:
+        - 2020年度:
+            - [第3問](frontier_sciences/materials_2020_3.md)
+    - 複雑理工学専攻:
+        - 2023年度:
+            - [専門基礎科目 1.1 微分積分](frontier_sciences/cse_2023_1_1.md)
+            - [専門基礎科目 2.1 線形代数](frontier_sciences/cse_2023_2_1.md)
+            - [専門基礎科目 3.2 確率・統計](frontier_sciences/cse_2023_3_2.md)
+        - 2022年度:
+            - [専門基礎科目 1.1 微分積分](frontier_sciences/cse_2022_1_1.md)
+            - [専門基礎科目 2.1 線形代数](frontier_sciences/cse_2022_2_1.md)
+            - [専門基礎科目 3.2 確率・統計](frontier_sciences/cse_2022_3_2.md)
+        - 2020年度:
+            - [専門基礎科目 第1問 数学](frontier_sciences/cse_2020_1.md)
+            - [専門基礎科目 第2問 数学](frontier_sciences/cse_2020_2.md)
+            - [専門基礎科目 第3問 数学](frontier_sciences/cse_2020_3.md)
+            - [専門基礎科目 第4問 数学](frontier_sciences/cse_2020_4.md)
+        - 2019年度:
+            - [専門基礎科目 第1問 数学](frontier_sciences/cse_2019_1.md)
+            - [専門基礎科目 第2問 数学](frontier_sciences/cse_2019_2.md)
+            - [専門基礎科目 第4問 数学](frontier_sciences/cse_2019_4.md)
+            - [専門基礎科目 第8問 物理学](frontier_sciences/cse_2019_8.md)
+        - 2018年度:
+            - [専門基礎科目 第1問 数学](frontier_sciences/cse_2018_1.md)
+            - [専門基礎科目 第2問 数学](frontier_sciences/cse_2018_2.md)
+            - [専門基礎科目 第4問 数学](frontier_sciences/cse_2018_4.md)
+    - メディカル情報生命専攻:
+        - 2023年度:
+            - [8月 問題7](frontier_sciences/cbms_202308_7.md)
+            - [8月 問題8](frontier_sciences/cbms_202308_8.md)
+            - [8月 問題9](frontier_sciences/cbms_202308_9.md)
+            - [8月 問題10](frontier_sciences/cbms_202308_10.md)
+            - [8月 問題11](frontier_sciences/cbms_202308_11.md)
+            - [8月 問題12](frontier_sciences/cbms_202308_12.md)
+        - 2024年度:
+            - [1月 問題7](frontier_sciences/cbms_202401_7.md)
+            - [1月 問題8](frontier_sciences/cbms_202401_8.md)
+            - [1月 問題9](frontier_sciences/cbms_202401_9.md)
+            - [1月 問題10](frontier_sciences/cbms_202401_10.md)
+            - [1月 問題11](frontier_sciences/cbms_202401_11.md)
+            - [1月 問題12](frontier_sciences/cbms_202401_12.md)
+    - 海洋技術環境学専攻:
+        - 2022年度:
+            - [第1~6問](frontier_sciences/otpe_2022_all.md)
+        - 2020年度:
+            - [第1~9問](frontier_sciences/otpe_2020_all.md)
+        - 2019年度:
+            - [第1~9問](frontier_sciences/otpe_2019_all.md)
+- 総合文化研究科:
+    - 広域科学専攻・広域システム科学系:
+        - 2020年度:
+            - [総合科目 第3問](art_and_sciences/system_2020_3.md)
+- 情報学環・学際情報学府:
+    - 学際情報学専攻・生物統計情報学コース:
+        - 2020年度:
+            - [専門科目 第1問](III/biostat_bioinfo_2020_1.md)
+            - [専門科目 第2問](III/biostat_bioinfo_2020_2.md)
+        - 2019年度:
+            - [専門科目 第1問](III/biostat_bioinfo_2019_1.md)
+            - [専門科目 第2問](III/biostat_bioinfo_2019_2.md)
+        - 2018年度:
+            - [専門科目 第1問](III/biostat_bioinfo_2018_1.md)
+            - [専門科目 第2問](III/biostat_bioinfo_2018_2.md)
+- 数理科学研究科:
+    - 数理科学専攻:
+        - 2022年度:
+            - [専門科目 A 第1問](mathematical_sciences/ms_2022_A_1.md)
+        - 2021年度:
+            - [専門科目 B 第16問](mathematical_sciences/ms_2021_B_16.md)
+        - 2020年度:
+            - [専門科目 A 第1問](mathematical_sciences/ms_2020_A_1.md)
